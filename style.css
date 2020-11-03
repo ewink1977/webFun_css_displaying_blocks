@@ -1,6 +1,7 @@
 div.wrapper {
     background-color: #d6d1b1;
-    min-width: 900px;
+    width: 900px;
+    margin: 0 auto;
     padding: 10px;
 }
     
